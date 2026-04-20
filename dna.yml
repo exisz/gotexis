@@ -1,0 +1,7 @@
+id: dna://repo/gotexis-gotexis
+type: repo
+title: gotexis — GitHub profile / meta repo
+description: GitHub profile repository for the gotexis organization.
+homepage: https://github.com/gotexis/gotexis
+status: active
+managed_by: dna://agent/nebula
